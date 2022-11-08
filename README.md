@@ -1,32 +1,12 @@
-# template
+# endometriosis
 
 
 
-**template for pathology atlas repositories**
+**endometriosis for pathology atlas repositories**
 
 
 
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-
-
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-
-vips dzsave HE.svs HE
-
-```
-
-
-
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language endometriosis, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -34,10 +14,9 @@ source("./R/language.R")
 
 
 
-
 ```{asis, echo = (language == "TR")}
 
-## TemplateTR
+## İnce barsak duvarında endometriozis, loop yapışıklık ve obstrüksiyon
 
 ```
 
@@ -46,7 +25,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-## TemplateEN
+## Endometriosis in small intestine wall, causing loop obstruction
 
 ```
 
@@ -55,14 +34,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**İnce barsak duvarında endometriozis, loop yapışıklık ve obstrüksiyon**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/endometriosis/HE.html](https://pathologyatlas.github.io/endometriosis/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://pathologyatlas.github.io/endometriosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -71,14 +50,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Endometriosis in small intestine wall, causing loop obstruction**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/endometriosis/HE.html](https://pathologyatlas.github.io/endometriosis/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://pathologyatlas.github.io/endometriosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
