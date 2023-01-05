@@ -37,11 +37,11 @@ source("./R/language.R")
 **İnce barsak duvarında endometriozis, loop yapışıklık ve obstrüksiyon**
 
 
-[https://pathologyatlas.github.io/endometriosis/HE.html](https://pathologyatlas.github.io/endometriosis/HE.html)
+[https://images.patolojiatlasi.com/endometriosis/HE.html](https://images.patolojiatlasi.com/endometriosis/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/endometriosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/endometriosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -53,11 +53,11 @@ Mikroskopik görüntüleri inceleyin:
 **Endometriosis in small intestine wall, causing loop obstruction**
 
 
-[https://pathologyatlas.github.io/endometriosis/HE.html](https://pathologyatlas.github.io/endometriosis/HE.html)
+[https://images.patolojiatlasi.com/endometriosis/HE.html](https://images.patolojiatlasi.com/endometriosis/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/endometriosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/endometriosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
